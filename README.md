@@ -13,4 +13,7 @@ Required libraries: <br>
 # Quick Demo 1st Example
 
 A 1 minute 35 seconds video about how the script works.  <br>
+It will automatically buy all items that cost less than 99100. <br>
 https://www.youtube.com/watch?v=dUp7oOJJi5o  <br>
+
+# Quick Demo 2nd Example
